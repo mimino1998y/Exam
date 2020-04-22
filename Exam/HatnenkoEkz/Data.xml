@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Product>
+    <Id>14178</Id>
+    <Name>Tin Plates</Name>
+    <Quantity>100</Quantity>
+    <Quota>100</Quota>
+  </Product>
+  <Product>
+    <Id>13122</Id>
+    <Name>h</Name>
+    <Quantity>5</Quantity>
+    <Quota>10</Quota>
+  </Product>
+</NewDataSet>
